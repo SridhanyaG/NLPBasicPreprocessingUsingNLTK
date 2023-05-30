@@ -1,0 +1,9 @@
+Terms of Service
+Last Updated: March 3, 2023
+
+The Gist
+We (the folks at Automattic) are on a mission to make the web a better place. We hope you love our products and services — from website publishing tools to ecommerce solutions to security backup systems to management tools for distributed companies to the next great idea that we haven’t even thought of yet — as much as we love creating them. These Terms of Service (“Terms”) describe our commitments to you, and your rights and responsibilities when using our services. Please read them carefully and reach out to us if you have any questions. If you don’t agree to these Terms, don’t use our services.
+
+If you are a user in countries located in the European Economic Area, Switzerland, or the United Kingdom (“European User”), some special terms apply to you as mentioned below.
+
+We’ve made these Terms available under a Creative Commons Sharealike license, which means that you’re more than welcome to copy them, adapt them, and repurpose them for your own use. Just make sure to revise them so that your Terms of Service reflect your actual practices. Also, if you do use these Terms, we’d appreciate a credit and link to Automattic somewhere on your website.
